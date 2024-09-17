@@ -154,7 +154,8 @@ function applyCoupon() {
     const priceDisplay = document.getElementById('priceDisplay');
     const addToCartBtn = document.getElementById('addToCartBtn');
 
-    if (couponCode === 'BLAMKA2025') {
+    if (couponCode === 'BlinkTek
+') {
         countDown(699.99, 0, 1000);
         showFireworks();
         setTimeout(() => {
